@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lorenzojmm (Lorenzo Jensen). Student, husband, father.
+- 👋 Hi, I’m @lorenzojmm (Lorenzo Jensen), husband & father.
 - 👀 I’m interested in oceans and rivers, family time with my wife and baby, mountain rides and hikes, and creating great things and moments.
-- 🌱 I want to become either an iOS developer or a front-end web developer. I have exploring to do!
+- 🌱 I want the world to stay green.
 - 📫 How to reach me ... lorenzo.jensen2@gmail.com
 
 <!---
